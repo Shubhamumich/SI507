@@ -1,6 +1,4 @@
-# SI507
-cOURSE SI507 
-Swimming championship Data Extraction
+#SI507 Swimming championship Data Extraction
 
 Data Sources:
   •	https://www.worldaquatics.com/competitions/1380/fina-swimming-world-cup-2021/results
