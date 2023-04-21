@@ -41,7 +41,7 @@ Open a terminal in the project directory and run the following command:
 2. from the drowp-down menu choose the required option
 3. Click on categories or winners to get the related data
 
-# Data structure
+## Data structure
 
 
 
