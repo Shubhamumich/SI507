@@ -1,5 +1,5 @@
 # SI507- FINAL PROJECT
-*******************************************************************************************************************************************************
+******************************************************************************************************************************************************
 
 
 The objective of this project is to implement a web scraping solution to extract data from two distinct web pages related to competitive swimming sports results. To optimize performance and reduce server requests, non-dynamic data is cached for faster retrieval. The extracted data is transformed into a tree structure using a Python script and stored in a JSON file format for easier access and manipulation. To provide a user-friendly interface, a Streamlit-based application is implemented, which enables users to filter and retrieve data based on various criteria.
