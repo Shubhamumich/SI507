@@ -1,0 +1,632 @@
+[
+    {
+        "category": "Men's 100m Backstroke",
+        "name": "evgeny rylov",
+        "medal": "Gold",
+        "country": "ROC"
+    },
+    {
+        "category": "Men's 100m Backstroke",
+        "name": "kliment kolesnikov",
+        "medal": "Silver",
+        "country": "ROC"
+    },
+    {
+        "category": "Men's 100m Backstroke",
+        "name": "ryan murphy",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 100m Breaststroke",
+        "name": "adam peaty",
+        "medal": "Gold",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Men's 100m Breaststroke",
+        "name": "arno kamminga",
+        "medal": "Silver",
+        "country": "Netherlands"
+    },
+    {
+        "category": "Men's 100m Breaststroke",
+        "name": "nicolo martinenghi",
+        "medal": "Bronze",
+        "country": "Italy"
+    },
+    {
+        "category": "Men's 100m Butterfly",
+        "name": "caeleb dressel",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 100m Butterfly",
+        "name": "kristof milak",
+        "medal": "Silver",
+        "country": "Hungary"
+    },
+    {
+        "category": "Men's 100m Butterfly",
+        "name": "noe ponti",
+        "medal": "Bronze",
+        "country": "Switzerland"
+    },
+    {
+        "category": "Men's 100m Freestyle",
+        "name": "caeleb dressel",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 100m Freestyle",
+        "name": "kyle chalmers",
+        "medal": "Silver",
+        "country": "Australia"
+    },
+    {
+        "category": "Men's 100m Freestyle",
+        "name": "kliment kolesnikov",
+        "medal": "Bronze",
+        "country": "ROC"
+    },
+    {
+        "category": "Men's 1500m Freestyle",
+        "name": "robert finke",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 1500m Freestyle",
+        "name": "mykhailo romanchuk",
+        "medal": "Silver",
+        "country": "Ukraine"
+    },
+    {
+        "category": "Men's 1500m Freestyle",
+        "name": "florian wellbrock",
+        "medal": "Bronze",
+        "country": "Germany"
+    },
+    {
+        "category": "Men's 200m Backstroke",
+        "name": "evgeny rylov",
+        "medal": "Gold",
+        "country": "ROC"
+    },
+    {
+        "category": "Men's 200m Backstroke",
+        "name": "ryan murphy",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 200m Backstroke",
+        "name": "luke greenbank",
+        "medal": "Bronze",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Men's 200m Breaststroke",
+        "name": "izaac stubblety-cook",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Men's 200m Breaststroke",
+        "name": "arno kamminga",
+        "medal": "Silver",
+        "country": "Netherlands"
+    },
+    {
+        "category": "Men's 200m Breaststroke",
+        "name": "matti mattsson",
+        "medal": "Bronze",
+        "country": "Finland"
+    },
+    {
+        "category": "Men's 200m Butterfly",
+        "name": "kristof milak",
+        "medal": "Gold",
+        "country": "Hungary"
+    },
+    {
+        "category": "Men's 200m Butterfly",
+        "name": "tomoru honda",
+        "medal": "Silver",
+        "country": "Japan"
+    },
+    {
+        "category": "Men's 200m Butterfly",
+        "name": "federico burdisso",
+        "medal": "Bronze",
+        "country": "Italy"
+    },
+    {
+        "category": "Men's 200m Freestyle",
+        "name": "tom dean",
+        "medal": "Gold",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Men's 200m Freestyle",
+        "name": "duncan scott",
+        "medal": "Silver",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Men's 200m Freestyle",
+        "name": "fernando scheffer",
+        "medal": "Bronze",
+        "country": "Brazil"
+    },
+    {
+        "category": "Men's 200m Individual Medley",
+        "name": "shun wang",
+        "medal": "Gold",
+        "country": "People's Republic of China"
+    },
+    {
+        "category": "Men's 200m Individual Medley",
+        "name": "duncan scott",
+        "medal": "Silver",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Men's 200m Individual Medley",
+        "name": "jeremy desplanches",
+        "medal": "Bronze",
+        "country": "Switzerland"
+    },
+    {
+        "category": "Men's 4 x 100m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 4 x 100m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Silver",
+        "country": "Italy"
+    },
+    {
+        "category": "Men's 4 x 100m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Men's 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Silver",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Men's 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Bronze",
+        "country": "Italy"
+    },
+    {
+        "category": "Men's 4 x 200m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Gold",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Men's 4 x 200m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Silver",
+        "country": "ROC"
+    },
+    {
+        "category": "Men's 4 x 200m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Men's 400m Freestyle",
+        "name": "ahmed hafnaoui",
+        "medal": "Gold",
+        "country": "Tunisia"
+    },
+    {
+        "category": "Men's 400m Freestyle",
+        "name": "jack mcloughlin",
+        "medal": "Silver",
+        "country": "Australia"
+    },
+    {
+        "category": "Men's 400m Freestyle",
+        "name": "kieran smith",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 400m Individual Medley",
+        "name": "chase kalisz",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 400m Individual Medley",
+        "name": "jay litherland",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 400m Individual Medley",
+        "name": "brendon smith",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Men's 50m Freestyle",
+        "name": "caeleb dressel",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 50m Freestyle",
+        "name": "florent manaudou",
+        "medal": "Silver",
+        "country": "France"
+    },
+    {
+        "category": "Men's 50m Freestyle",
+        "name": "bruno fratus",
+        "medal": "Bronze",
+        "country": "Brazil"
+    },
+    {
+        "category": "Men's 800m Freestyle",
+        "name": "robert finke",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Men's 800m Freestyle",
+        "name": "gregorio paltrinieri",
+        "medal": "Silver",
+        "country": "Italy"
+    },
+    {
+        "category": "Men's 800m Freestyle",
+        "name": "mykhailo romanchuk",
+        "medal": "Bronze",
+        "country": "Ukraine"
+    },
+    {
+        "category": "Mixed 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Gold",
+        "country": "Great Britain"
+    },
+    {
+        "category": "Mixed 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Silver",
+        "country": "People's Republic of China"
+    },
+    {
+        "category": "Mixed 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 100m Backstroke",
+        "name": "kaylee mckeown",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 100m Backstroke",
+        "name": "kylie masse",
+        "medal": "Silver",
+        "country": "Canada"
+    },
+    {
+        "category": "Women's 100m Backstroke",
+        "name": "regan smith",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 100m Breaststroke",
+        "name": "lydia jacoby",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 100m Breaststroke",
+        "name": "tatjana schoenmaker",
+        "medal": "Silver",
+        "country": "South Africa"
+    },
+    {
+        "category": "Women's 100m Breaststroke",
+        "name": "lilly king",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 100m Butterfly",
+        "name": "margaret mac neil",
+        "medal": "Gold",
+        "country": "Canada"
+    },
+    {
+        "category": "Women's 100m Butterfly",
+        "name": "yufei zhang",
+        "medal": "Silver",
+        "country": "People's Republic of China"
+    },
+    {
+        "category": "Women's 100m Butterfly",
+        "name": "emma mckeon",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 100m Freestyle",
+        "name": "emma mckeon",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 100m Freestyle",
+        "name": "siobhan bernadette haughey",
+        "medal": "Silver",
+        "country": "Hong Kong, China"
+    },
+    {
+        "category": "Women's 100m Freestyle",
+        "name": "cate campbell",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 1500m Freestyle",
+        "name": "katie ledecky",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 1500m Freestyle",
+        "name": "erica sullivan",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 1500m Freestyle",
+        "name": "sarah kohler",
+        "medal": "Bronze",
+        "country": "Germany"
+    },
+    {
+        "category": "Women's 200m Backstroke",
+        "name": "kaylee mckeown",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 200m Backstroke",
+        "name": "kylie masse",
+        "medal": "Silver",
+        "country": "Canada"
+    },
+    {
+        "category": "Women's 200m Backstroke",
+        "name": "emily seebohm",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 200m Breaststroke",
+        "name": "tatjana schoenmaker",
+        "medal": "Gold",
+        "country": "South Africa"
+    },
+    {
+        "category": "Women's 200m Breaststroke",
+        "name": "lilly king",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 200m Breaststroke",
+        "name": "annie lazor",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 200m Butterfly",
+        "name": "yufei zhang",
+        "medal": "Gold",
+        "country": "People's Republic of China"
+    },
+    {
+        "category": "Women's 200m Butterfly",
+        "name": "regan smith",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 200m Butterfly",
+        "name": "hali flickinger",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 200m Freestyle",
+        "name": "ariarne titmus",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 200m Freestyle",
+        "name": "siobhan bernadette haughey",
+        "medal": "Silver",
+        "country": "Hong Kong, China"
+    },
+    {
+        "category": "Women's 200m Freestyle",
+        "name": "penny oleksiak",
+        "medal": "Bronze",
+        "country": "Canada"
+    },
+    {
+        "category": "Women's 200m Individual Medley",
+        "name": "yui ohashi",
+        "medal": "Gold",
+        "country": "Japan"
+    },
+    {
+        "category": "Women's 200m Individual Medley",
+        "name": "alex walsh",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 200m Individual Medley",
+        "name": "kate douglass",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 4 x 100m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 4 x 100m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Silver",
+        "country": "Canada"
+    },
+    {
+        "category": "Women's 4 x 100m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 4 x 100m Medley Relay",
+        "name": "Multiple Winners",
+        "medal": "Bronze",
+        "country": "Canada"
+    },
+    {
+        "category": "Women's 4 x 200m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Gold",
+        "country": "People's Republic of China"
+    },
+    {
+        "category": "Women's 4 x 200m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 4 x 200m Freestyle Relay",
+        "name": "Multiple Winners",
+        "medal": "Bronze",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 400m Freestyle",
+        "name": "ariarne titmus",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 400m Freestyle",
+        "name": "katie ledecky",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 400m Freestyle",
+        "name": "bingjie li",
+        "medal": "Bronze",
+        "country": "People's Republic of China"
+    },
+    {
+        "category": "Women's 400m Individual Medley",
+        "name": "yui ohashi",
+        "medal": "Gold",
+        "country": "Japan"
+    },
+    {
+        "category": "Women's 400m Individual Medley",
+        "name": "emma weyant",
+        "medal": "Silver",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 400m Individual Medley",
+        "name": "hali flickinger",
+        "medal": "Bronze",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 50m Freestyle",
+        "name": "emma mckeon",
+        "medal": "Gold",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 50m Freestyle",
+        "name": "sarah sjoestroem",
+        "medal": "Silver",
+        "country": "Sweden"
+    },
+    {
+        "category": "Women's 50m Freestyle",
+        "name": "pernille blume",
+        "medal": "Bronze",
+        "country": "Denmark"
+    },
+    {
+        "category": "Women's 800m Freestyle",
+        "name": "katie ledecky",
+        "medal": "Gold",
+        "country": "United States of America"
+    },
+    {
+        "category": "Women's 800m Freestyle",
+        "name": "ariarne titmus",
+        "medal": "Silver",
+        "country": "Australia"
+    },
+    {
+        "category": "Women's 800m Freestyle",
+        "name": "simona quadarella",
+        "medal": "Bronze",
+        "country": "Italy"
+    }
+]
