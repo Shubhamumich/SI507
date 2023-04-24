@@ -25,14 +25,12 @@ The objective of this project is to implement a web scraping solution to extract
 - Streamlit
 - requests 
 - BeautifulSoup
-- Plotly
-- pandas
 - numpy
 
 #### Running the Program
 Open a terminal in the project directory and run the following command:
 
-      streamlit run app.py
+      python -m streamlit run app.py
       
       Click any url to view web app.
       Local URL: http://localhost:8501
